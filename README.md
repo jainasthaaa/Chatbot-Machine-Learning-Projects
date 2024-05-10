@@ -29,7 +29,11 @@ Chatbot Framework: Streamlit,ssl.
 The project consists of the following components:
 
 Main Chatbot Module: Contains the core logic for processing user inputs, recognizing intents, and generating responses.
+
 Data Preprocessing Module: Handles preprocessing of user input data for NLP tasks.
+
 Intent Recognition Module: Implements machine learning models or rule-based systems for intent recognition, if applicable.
+
 Response Generation Module: Generates appropriate responses based on recognized intents and context.
+
 Configuration Files: Contains configuration settings and parameters for the chatbot.
